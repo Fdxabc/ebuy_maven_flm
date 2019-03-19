@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ebuy_maven_flm:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ebuy_maven_flm.war">
+      <element id="artifact" artifact-name="ebuy_maven_flm:war exploded" />
+    </root>
+  </artifact>
+</component>
